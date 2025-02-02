@@ -1,0 +1,501 @@
+Breed,Breed Code,Age (months),Weight (kg),Disease,Fat (g),Protein (g),Fiber (g),Carbohydrates (g),Vitamins (mg),Minerals (mg)
+German Shepherd,4,13,17.2,obesity,6.8,20.7,15,51.1,38.2,16.2
+Labrador,7,36,31,digestive issues,8.4,18.3,12.6,41,44.3,18.3
+Pomeranian,9,96,3,digestive issues,5.5,23.5,15,44.4,39.8,17
+Rottweiler,1,80,27.9,obesity,9.2,24.7,10.9,53.8,39.7,14.2
+Pomeranian,9,103,3.5,healthy,12.5,32.4,5.2,50.9,29,19.2
+Mutt (Mixed Breed),10,111,23.1,diabetes,5.1,24.4,8.8,33.1,57.9,20.1
+Golden Retriever,3,19,24.8,healthy,13.3,29.5,4.5,67.5,29.2,20.5
+German Shepherd,4,6,34.5,digestive issues,7.6,17.2,15.3,47.9,46.2,16.4
+Rottweiler,1,14,30.3,diabetes,6.2,25.4,10.4,31.2,45.5,23
+Golden Retriever,3,114,28.9,arthritis,4.3,21,8.7,52.5,36,13.5
+Rottweiler,1,54,43.2,kidney disease,6.3,18,9,46.5,63.9,13.3
+Rottweiler,1,98,32.7,arthritis,5.4,18.9,6.1,39.8,54.4,18.4
+Doberman,5,18,32.1,healthy,14.3,26.7,4.4,52.6,30.7,24
+German Shepherd,4,90,18.7,digestive issues,8.6,17.5,13.7,47.4,42.2,13.9
+German Shepherd,4,35,27.6,kidney disease,6.2,11.1,9.4,58.3,60.4,8.1
+Boxer,2,100,28.6,kidney disease,6,15.8,8.4,54.9,61.4,14.7
+Labrador,7,39,37.1,obesity,7.7,23,10.7,53.7,41.3,17
+Boxer,2,70,31.9,healthy,12.7,29.4,7.4,59.4,36.3,16.8
+German Shepherd,4,26,20.4,healthy,14.5,32.5,6.9,64.9,41.5,19.8
+Mutt (Mixed Breed),10,95,41.2,kidney disease,5.6,10.8,9.2,48.6,57.7,9
+Mutt (Mixed Breed),10,39,23,digestive issues,7.1,15.6,17.5,52.8,40.4,13.3
+Dalmatian,6,117,23.8,arthritis,8.3,25.3,8.4,40.7,53.4,21.1
+Boxer,2,68,19.9,kidney disease,5.1,11.2,9.1,48,59.1,9.2
+Labrador,7,49,24.6,obesity,8,22.1,12.5,52.2,37.6,12.8
+Pomeranian,9,9,5.3,arthritis,6.1,24.5,6,48,54,17.3
+German Shepherd,4,102,13.7,healthy,12.8,26.2,6,66.8,37.9,19.2
+Boxer,2,54,29,healthy,9.3,32.3,5.9,50.7,30.3,19.6
+German Shepherd,4,64,23.8,diabetes,6.2,21.7,8.1,44.8,44.2,17.4
+Mutt (Mixed Breed),10,38,49.6,digestive issues,8.6,15.2,15.9,54.9,32.2,13.6
+German Shepherd,4,36,31.7,obesity,9.2,22,11.4,43.8,41.7,11.7
+German Shepherd,4,47,18.8,diabetes,5.1,26.7,11.7,35.3,59.2,23.8
+Doberman,5,35,18.5,kidney disease,6.8,17.4,11.1,57.6,54.1,11.9
+Pomeranian,9,107,3.8,arthritis,7.1,20.6,7.8,47.5,42,12.1
+Mutt (Mixed Breed),10,34,30.1,obesity,6.4,19.2,10.2,53.7,42.8,15
+Golden Retriever,3,72,19.6,healthy,11.2,31.8,5.2,51.2,41.3,19.9
+Mutt (Mixed Breed),10,81,22.9,digestive issues,7.6,23.6,16.3,49.7,44.2,17.2
+Pomeranian,9,14,2.3,arthritis,4.6,27,7.9,53.6,51.2,16.6
+Labrador,7,98,16.4,healthy,13,25.2,7.8,55,42.9,17.1
+Labrador,7,37,23,digestive issues,9,21.7,13,48,42,17.3
+Dalmatian,6,11,26,healthy,12.2,25.5,7.1,68.3,44.3,24.2
+Doberman,5,44,37.2,obesity,7.3,17.8,11.6,45.5,43.7,15.9
+Boxer,2,15,22.5,arthritis,5.1,25.3,9,39.7,54.8,17.3
+Doberman,5,2,15.5,healthy,9.7,33.5,5.4,62.8,31.4,17.1
+Golden Retriever,3,72,27.1,digestive issues,8.4,22.4,14.7,55.7,40,14.5
+Rottweiler,1,68,56.1,kidney disease,4.8,16.5,11,54.2,63.2,8.4
+German Shepherd,4,46,21.8,digestive issues,6.1,23,12.7,52.3,42.4,13.3
+Dalmatian,6,116,15.1,healthy,11.9,32.9,4.8,53.1,27,18.5
+Boxer,2,24,17.4,kidney disease,5.8,12.9,9,48.2,67.8,12.9
+Labrador,7,109,23.9,diabetes,4,25.4,8.2,47.6,53.4,15.6
+Golden Retriever,3,29,31.3,kidney disease,5,16.3,9.9,46.6,56.8,14
+Rhodesian Ridgeback,8,111,30.9,digestive issues,7.5,23.1,12.3,40.6,38.4,13.7
+Rhodesian Ridgeback,8,12,15,kidney disease,5.8,14.5,8.9,64.3,61.3,8.8
+Mutt (Mixed Breed),10,72,21.3,kidney disease,6.3,17,8.5,64.5,56.6,14.7
+Golden Retriever,3,103,31.1,obesity,9,21.5,13.4,45.8,45.8,12.2
+Rottweiler,1,21,43.6,obesity,5.5,21.2,14.5,41.4,39.9,13
+Mutt (Mixed Breed),10,111,43.8,obesity,7.6,18.1,14.6,40.7,31.9,18.1
+Boxer,2,38,15,kidney disease,4.2,10.6,9.8,58.5,56.2,13.1
+Rhodesian Ridgeback,8,24,45.8,digestive issues,6.1,23.8,17,44.7,38.9,15.5
+Rottweiler,1,75,33,obesity,5.9,15.4,12.2,46.9,43.6,18
+Doberman,5,94,34.3,obesity,6.3,20.5,13.2,46.6,46.8,12
+Doberman,5,106,33.5,arthritis,8.1,21.8,9.9,49.6,49.2,13.2
+Pomeranian,9,92,4.3,arthritis,6.3,19,7.6,46.5,50,18.4
+Labrador,7,31,37.4,arthritis,7.6,20,8.5,53.5,39.3,19.5
+Rottweiler,1,52,58.9,healthy,15,27.9,4.5,63.1,31.6,15.7
+German Shepherd,4,79,39.5,diabetes,7.8,28.9,11.1,44.3,47.3,16.1
+Pomeranian,9,17,4.6,digestive issues,6.3,15.9,14.4,52,32.8,11.6
+Rhodesian Ridgeback,8,46,34,arthritis,6.3,19.2,9.1,35.5,42.8,21.6
+Mutt (Mixed Breed),10,22,47.3,digestive issues,6.6,22,12.7,44.1,37.8,18.4
+Doberman,5,15,44,diabetes,5.9,25.4,8.2,41.5,51.6,17.9
+Mutt (Mixed Breed),10,98,26.6,digestive issues,7.7,24.1,15.3,52.5,45.5,18.8
+Doberman,5,43,39.6,obesity,9.5,18.7,12.9,54.4,39,18.8
+Rottweiler,1,45,31.9,arthritis,4.4,27.1,6.6,37.9,48.6,12.7
+Labrador,7,32,21.4,obesity,9.9,17,12.2,43.8,45.4,12.7
+Boxer,2,99,27,arthritis,6.7,20.9,9.1,46.7,42.8,20.2
+Rhodesian Ridgeback,8,55,17.3,arthritis,5.6,22.1,7.7,48.8,44.4,14.6
+Dalmatian,6,79,19,kidney disease,4.6,17.5,9.8,52.3,51.3,11.7
+Rhodesian Ridgeback,8,12,48.1,arthritis,6,24.5,9.7,36.5,40.2,13.3
+Rhodesian Ridgeback,8,51,11.2,arthritis,5.9,25.3,9.3,49.9,41.2,18.7
+Rottweiler,1,29,55.7,healthy,13.6,25.2,5.1,66.1,43.4,16.7
+Golden Retriever,3,59,28.4,diabetes,4.1,25.4,9.7,49,59,16.9
+Rottweiler,1,100,45.5,kidney disease,5.7,11,11.6,53.2,60.7,11.1
+Doberman,5,91,40.3,kidney disease,5.2,10.5,9.8,47.8,66.2,8.9
+Labrador,7,85,28,obesity,7.2,22.2,13.5,46.4,49.1,14.7
+Golden Retriever,3,62,28.7,healthy,12.2,30.8,6.9,62.9,34.9,19.4
+Dalmatian,6,5,32.6,healthy,11.6,31,6,50.9,42.9,16.1
+Doberman,5,92,41.1,kidney disease,4.1,11.9,9.1,54.6,56.3,10.6
+Pomeranian,9,103,5,obesity,7.9,20.6,12.3,49,32.3,12.4
+Labrador,7,62,28.1,obesity,6.4,22.4,10.5,50.5,43.6,10.9
+Pomeranian,9,74,5.6,obesity,7.2,15.4,12.7,47.7,36.1,16.5
+Boxer,2,57,30.9,arthritis,7.7,23,7.6,54.8,46.3,17.1
+Pomeranian,9,53,4.5,healthy,10.4,30.7,8,58.6,40.3,22.4
+Doberman,5,34,19.8,healthy,8.3,33.1,6.1,67,35.8,23.1
+Dalmatian,6,104,30.5,digestive issues,5.3,15.9,12.6,59.4,42.9,15.5
+Labrador,7,45,31.2,obesity,6.5,24.7,11.6,40.3,48.9,16.4
+German Shepherd,4,2,14.7,kidney disease,5.9,12.7,11.3,60.5,61.9,14.5
+Rhodesian Ridgeback,8,22,25.8,digestive issues,5.6,24.4,15,58.6,33.6,14
+German Shepherd,4,96,37.4,diabetes,3,27.5,9.7,45.1,56.9,19.7
+Labrador,7,103,17.4,arthritis,6,22.9,6.1,52.6,36.1,19.7
+Boxer,2,3,23.7,diabetes,6,25.1,11.5,39.2,59.6,16.4
+Pomeranian,9,110,7.8,diabetes,7.5,20.5,10.4,32,53.4,15.1
+Rhodesian Ridgeback,8,31,11.2,obesity,7.3,20.1,11.1,44.7,44.3,11.5
+Boxer,2,28,19.2,healthy,10,30.5,6.6,64.9,26.8,16.4
+Rhodesian Ridgeback,8,47,16,diabetes,7,29.8,9.2,45.3,48.5,19.9
+Labrador,7,38,38.1,digestive issues,7.7,21,14.1,45.2,33.1,12.5
+Doberman,5,28,21.9,healthy,8.2,28.9,6.7,58.7,34.9,22.2
+Pomeranian,9,50,5.8,diabetes,7.6,29.8,11.8,48.5,47.4,17
+German Shepherd,4,110,13.2,arthritis,5.6,19.6,10,51.6,51.7,21
+Doberman,5,8,14.7,obesity,9.4,17.7,11.8,56.6,43.4,13.4
+Doberman,5,91,32.4,arthritis,6.4,19,6.5,54.6,49.1,17
+Rottweiler,1,55,52.8,arthritis,6.8,21.4,6.1,38.2,43.7,19.1
+Rottweiler,1,47,48.1,healthy,11.6,30.2,4,50.9,29.5,17.8
+Dalmatian,6,66,30.7,digestive issues,7.5,24,13.5,47.4,43.5,10.4
+Doberman,5,5,17.1,obesity,9.1,17,11.7,58.7,30.6,16
+Labrador,7,82,36.3,diabetes,5.1,21.8,11.1,47.7,56.8,21.2
+Labrador,7,16,15.9,healthy,8.3,34.9,4,54.1,39.6,15.8
+Boxer,2,113,20,diabetes,4.2,27.1,11.9,41,55.8,15.1
+Rhodesian Ridgeback,8,12,29.5,diabetes,5.9,28.8,11.1,48.3,42.1,16.2
+Golden Retriever,3,32,25.3,digestive issues,7,20.7,17.3,46.4,37.5,19.1
+Pomeranian,9,56,4.6,obesity,8.9,17.4,14.1,40.4,42.9,11
+Rhodesian Ridgeback,8,91,34.8,obesity,6.2,19,13.6,55.3,33.4,14.3
+Rottweiler,1,90,27.2,digestive issues,8.1,21,13.6,47.6,30.8,15.6
+Boxer,2,64,18,digestive issues,7.2,24.2,14.2,49,49.3,18.9
+Boxer,2,46,30.5,digestive issues,6.8,18.4,15.5,59.7,34.7,15.3
+Pomeranian,9,92,2.7,diabetes,4.9,27.4,10.9,37.4,54.6,17
+Rhodesian Ridgeback,8,31,27,healthy,13.3,34.7,7.9,67.2,44,15.6
+Doberman,5,30,39.3,healthy,13,28.3,7.7,63.9,25,20
+Rottweiler,1,79,55.2,kidney disease,6.2,11.9,10.9,51.5,65,13.6
+Dalmatian,6,29,29.3,obesity,7.5,21.8,12.6,52.1,49.9,18.6
+Dalmatian,6,59,27.5,healthy,11.7,32,5.1,55.6,26.8,21.2
+Boxer,2,75,15.2,kidney disease,4.2,15.9,9.5,46.9,68.2,9.3
+Labrador,7,78,20,digestive issues,5.6,22.1,13.5,55.2,39.7,14.1
+Boxer,2,96,26.3,healthy,9.3,33,6.8,62.5,30.6,21.9
+Labrador,7,16,31.6,digestive issues,5.9,15.9,12,54.6,41.7,13.6
+German Shepherd,4,17,11.3,obesity,7,17.6,14.6,43.1,43,10.6
+Pomeranian,9,120,7.2,kidney disease,6.6,17.2,10.1,51,65.6,9.6
+Labrador,7,38,27.1,kidney disease,4.7,12.1,10.9,59.4,67,14.2
+Mutt (Mixed Breed),10,68,48.5,healthy,8.4,33.6,7.6,51.3,42.7,22.4
+Dalmatian,6,55,23,arthritis,8.1,18.5,7,37.7,47.2,20.8
+Rhodesian Ridgeback,8,106,14.6,diabetes,5.1,20.3,11.1,40.9,50.5,23.6
+Rottweiler,1,67,48.1,diabetes,6.2,29.6,11.6,32.8,40.2,15.4
+Golden Retriever,3,110,29.1,arthritis,4.2,19.1,8.5,45.9,50.8,17.8
+Doberman,5,47,24.3,kidney disease,4.2,11.4,12,58.6,65.7,10.5
+Rhodesian Ridgeback,8,38,37.9,obesity,9.6,22.3,12.4,48.6,50,13.4
+German Shepherd,4,69,29.9,kidney disease,5.3,10.5,10,57.7,58.5,12.4
+Golden Retriever,3,98,33.4,diabetes,6.7,28.3,8.5,34.9,43.6,21.8
+Doberman,5,27,24.1,healthy,13.6,29.3,7.5,54.8,31,20.9
+Pomeranian,9,68,7.1,obesity,7.4,15.7,13.2,43.4,38.9,19.2
+Dalmatian,6,29,30.5,obesity,8.8,15.5,11.8,48.7,45.5,17
+German Shepherd,4,86,29.9,digestive issues,8.5,24.5,13.8,53.6,40.9,15.9
+German Shepherd,4,97,26.8,diabetes,4,22.6,11.1,49.9,55.2,17.4
+Pomeranian,9,83,2.4,obesity,5.5,19.9,14.4,56.9,40.6,10.4
+Golden Retriever,3,65,19.9,kidney disease,4.9,17,11.3,47,66.3,14.4
+Dalmatian,6,85,23.5,kidney disease,5.8,14.3,8.7,46.1,53.8,9.8
+Rhodesian Ridgeback,8,40,22.2,obesity,5.8,21.3,11,51.5,40.2,14.3
+Pomeranian,9,71,4.5,healthy,10.2,30.3,5.9,58.5,35.8,19.3
+Boxer,2,104,21.5,digestive issues,5.8,23,16,58.2,38.1,19.6
+Pomeranian,9,31,5.7,diabetes,6.8,27.8,10.7,32.7,44.8,17.3
+Rottweiler,1,2,43.9,arthritis,6.1,18,8.8,39.6,50.9,18.2
+Golden Retriever,3,108,23.3,diabetes,6.9,24.7,11.7,38.5,59.3,24.7
+German Shepherd,4,50,32.6,digestive issues,7.7,21.4,13.2,43.7,42.6,16.5
+Golden Retriever,3,44,15.1,digestive issues,8.6,16.2,14.9,44.6,38.7,10.9
+Labrador,7,49,35.2,arthritis,8.4,18.7,9.2,52,35.6,19.8
+Rottweiler,1,90,55.1,arthritis,5,26.9,7.7,39.6,48.8,15.5
+Mutt (Mixed Breed),10,21,39.2,kidney disease,5.5,14.8,8.7,63.9,52.5,11.5
+German Shepherd,4,112,15.2,obesity,9.8,22,14.5,45.7,49.6,17.3
+Doberman,5,80,10.6,digestive issues,6.9,23.6,12.9,57.2,46.8,12
+Rottweiler,1,76,26.1,digestive issues,6.1,21.3,13.4,47.9,47.2,14.9
+Rottweiler,1,41,52.9,kidney disease,5.9,14.6,10.5,45.3,61.2,13.6
+Labrador,7,78,32.6,arthritis,6.5,19.3,8,44.6,43.2,13.9
+Labrador,7,63,15.3,arthritis,7,22.1,9.4,40.5,50.2,21.1
+Doberman,5,61,29.9,diabetes,4.4,22.3,8.8,43,43.9,21.9
+Labrador,7,110,25.2,healthy,12.2,33.9,7.6,59.2,36.4,18.7
+Labrador,7,103,26.2,healthy,13.4,25.9,7.7,59.6,40.5,20.5
+Rottweiler,1,60,42.2,digestive issues,5.8,20.5,13.3,43.3,39,12.9
+Doberman,5,24,42.2,arthritis,5.8,25.3,9.9,37.2,41.8,14.6
+Mutt (Mixed Breed),10,64,33.6,healthy,10.5,32,7,63.6,27.1,23.4
+Labrador,7,54,30.1,diabetes,6.3,21.7,9.3,36.3,54,20
+Pomeranian,9,98,6.5,digestive issues,5.3,15,14.4,47.9,47.2,18.4
+Golden Retriever,3,7,29.5,diabetes,5,22.4,11.6,46.3,41.1,18.1
+Pomeranian,9,36,2.5,healthy,8.5,32.3,4.9,66.2,40.2,22.6
+Rottweiler,1,96,58.9,arthritis,6.4,20.8,8.6,49.3,48.8,18.9
+German Shepherd,4,2,32.1,arthritis,4.9,19.7,9.4,36.9,46.1,21.1
+Doberman,5,37,34.1,arthritis,6.9,23.4,7.2,37.7,49.3,17.4
+Rhodesian Ridgeback,8,63,15.2,arthritis,5,20.4,7,39.5,46.7,16
+Mutt (Mixed Breed),10,89,27.1,arthritis,5.7,20.4,7.4,45.8,46,17.5
+Golden Retriever,3,76,19,diabetes,7.6,24.6,8.7,30.1,42.5,17.3
+Golden Retriever,3,80,27.2,healthy,14.3,26.9,6.6,55.3,25,25
+Labrador,7,33,27.1,digestive issues,8,17.8,12.5,41.3,42.4,12
+Boxer,2,100,25.7,digestive issues,5.8,22.2,16.9,44.9,30.6,20
+German Shepherd,4,84,29.5,healthy,10.5,26.6,4.5,64,41.6,17.7
+Mutt (Mixed Breed),10,115,16.8,diabetes,5.4,20.2,8,43.3,55.2,22.3
+Golden Retriever,3,97,22.3,healthy,12.9,29.8,6.2,51.5,27.5,17.5
+Pomeranian,9,120,5.1,healthy,14.2,32.2,5.9,63.8,26,24.6
+German Shepherd,4,83,17.5,diabetes,6.8,25.3,11.1,39.9,48.2,24
+Golden Retriever,3,66,31.5,obesity,8.8,23.9,14.3,46.8,30.3,10.7
+Boxer,2,30,23.6,diabetes,5.6,24,9,45.8,41.6,19.3
+Rhodesian Ridgeback,8,71,26.4,kidney disease,6.4,11.6,9.1,49.8,64.6,8.7
+Boxer,2,96,16.4,obesity,7.7,18.5,12.7,47,35.4,14.9
+Mutt (Mixed Breed),10,49,16.4,kidney disease,6.5,13.4,10.5,45.1,56.8,12
+Golden Retriever,3,79,28,diabetes,8,27.4,10.4,41,49.7,24.1
+Golden Retriever,3,11,20.5,arthritis,4.7,26.3,8.2,41.1,42.7,21
+Boxer,2,36,23.9,kidney disease,5.5,12.1,11.8,54,68.7,15
+Rottweiler,1,42,51.5,arthritis,4.6,27,6.2,43.6,46.7,17.6
+Labrador,7,77,22,digestive issues,6.8,17.7,14,57.6,38.6,15.6
+Rottweiler,1,20,42.3,healthy,9.5,32.3,7,63.4,37.8,17.4
+Doberman,5,2,41.8,arthritis,6.5,20.6,8.6,44.7,36.4,16.4
+Rottweiler,1,20,36.3,diabetes,6.1,25.2,11.2,31.9,44.7,19.3
+Mutt (Mixed Breed),10,120,46.4,healthy,9.9,34,6.3,55.6,35.9,24.4
+Rhodesian Ridgeback,8,81,38.6,diabetes,5.9,25.2,10.1,32.4,49.3,24.9
+Pomeranian,9,39,7.3,digestive issues,8.9,20.6,13.1,54.1,40.8,16.8
+Rhodesian Ridgeback,8,119,26.7,arthritis,5.4,20.2,6.4,48.4,51.5,13.7
+Labrador,7,103,26.8,healthy,12.5,31.6,4.1,60.4,37.4,23.1
+Mutt (Mixed Breed),10,46,40,arthritis,7,28,6.6,49.4,52.8,14.2
+Rottweiler,1,104,56.5,kidney disease,6.1,14.2,10.7,55,63.5,9.8
+Rottweiler,1,66,59.4,digestive issues,7.7,15.5,13.8,40.8,46,17.4
+Mutt (Mixed Breed),10,28,17.5,arthritis,6.6,20.2,6.6,44.4,38.4,13.7
+Pomeranian,9,42,3,digestive issues,7.6,19,12.1,41.5,30.4,16.6
+German Shepherd,4,79,17.5,diabetes,5.2,25.9,9.6,49,45.7,19.8
+Rhodesian Ridgeback,8,28,37.2,arthritis,7,21.3,7.2,44.2,36.8,12.6
+Labrador,7,4,35.9,diabetes,6.6,27.3,9.4,39.9,56.5,24.1
+Doberman,5,70,20.1,arthritis,7.1,25.6,8.9,52.1,42.3,15.5
+Mutt (Mixed Breed),10,2,26.3,kidney disease,7,11,9.6,57.7,52.9,10.1
+Boxer,2,54,27.4,healthy,13.3,27.8,5.4,61.7,41.8,19.1
+Rhodesian Ridgeback,8,19,45.2,arthritis,7.1,24.8,6.4,42.8,54.8,12.7
+Boxer,2,79,15.5,digestive issues,6,22,12.9,48.9,43.9,18.3
+Rhodesian Ridgeback,8,92,34.6,obesity,8.5,20.8,14,41.1,43.3,12.1
+Rhodesian Ridgeback,8,8,45.8,digestive issues,5.4,19.6,16.5,52.9,37.2,11.8
+Boxer,2,9,18.1,obesity,5.3,19.2,11.9,45.1,38.6,11.8
+Doberman,5,93,14.2,diabetes,4.9,26.7,10.9,39.8,54.8,22.9
+Dalmatian,6,40,27.9,digestive issues,8.3,19.8,17.8,59.4,33.1,16.4
+Rottweiler,1,32,48.5,arthritis,8.9,20.6,8.4,40.6,38.1,21
+Pomeranian,9,9,5.7,kidney disease,4.4,15.5,11.4,49.6,51.6,14.3
+Mutt (Mixed Breed),10,75,10.9,kidney disease,6.4,15.4,10.6,52,55.6,9.5
+Dalmatian,6,92,21.3,arthritis,6.9,21,9.9,43.5,53.5,21.7
+Pomeranian,9,46,4.1,kidney disease,6.7,10.5,10.8,51.7,51.6,8.7
+Rottweiler,1,91,59.2,obesity,8.6,16.6,11.5,53.2,39.2,17.4
+Dalmatian,6,15,24.2,digestive issues,6.6,18,16.4,54.7,38.8,18.8
+Rottweiler,1,73,33.5,digestive issues,7.3,18,13.3,57.1,33.2,17.8
+Mutt (Mixed Breed),10,90,41.9,obesity,9.2,18.9,13.8,43.4,35.3,19.3
+Mutt (Mixed Breed),10,26,26.1,healthy,11.8,26.9,7.7,64.9,32.8,24.3
+Golden Retriever,3,17,22.4,digestive issues,5.8,19.7,17.1,51.6,35.4,16.6
+Labrador,7,19,36.9,diabetes,4.5,21.6,9.9,38.7,43.5,16.4
+German Shepherd,4,102,34.8,healthy,10.7,32.4,7.4,62.3,26.4,22.8
+Dalmatian,6,42,31.9,kidney disease,5.7,16.2,11.1,52.6,51.4,12.8
+Labrador,7,22,26.9,arthritis,6.1,27.4,9,52.3,46.8,17.5
+Rottweiler,1,32,52.1,diabetes,6.5,28.2,9,30.1,45.8,20.2
+Dalmatian,6,71,28.8,arthritis,7.7,24.7,9.9,45.3,42.4,13.3
+Rottweiler,1,31,46.1,obesity,5.8,20.2,14.8,44.9,41,11.5
+Rhodesian Ridgeback,8,110,19.4,obesity,9.1,21.2,10.1,41.6,44,11.3
+Pomeranian,9,64,6.1,obesity,6.6,15.9,12.4,47.3,31.8,13.4
+Mutt (Mixed Breed),10,107,11.5,healthy,13.7,33.4,7.1,62.7,44.7,17.2
+Rhodesian Ridgeback,8,84,35,obesity,5.7,18.5,14.5,45,38.3,15.2
+Mutt (Mixed Breed),10,114,34.1,arthritis,4.3,21.1,8.9,47.5,47.5,13.8
+Mutt (Mixed Breed),10,95,37.9,digestive issues,5.3,24,14.5,59.1,43.1,12
+Labrador,7,93,31.2,healthy,10.2,26.5,6.6,64.7,43.9,18.8
+Dalmatian,6,105,21.4,obesity,6.2,15,12.8,58.3,45.5,19.7
+Rottweiler,1,11,58.8,arthritis,6.2,24.6,7,44.3,41.8,15.3
+Golden Retriever,3,16,24.4,kidney disease,5.1,11.2,10.4,65,52.7,9.5
+Pomeranian,9,116,7.9,kidney disease,4.4,16,8.3,64.2,64.8,10.3
+Golden Retriever,3,42,25.4,healthy,14.9,33.9,7.5,51.8,25.7,18.2
+Mutt (Mixed Breed),10,2,22,digestive issues,5.7,17.4,17.6,52.8,33.1,12.9
+Boxer,2,22,23.5,arthritis,6.3,23.2,8.7,54.2,50.2,12.4
+Doberman,5,89,32.8,digestive issues,7.9,18.2,17.5,48.6,42.7,15.1
+Golden Retriever,3,62,20.4,healthy,10.7,27.6,4.3,52.6,30.5,18.3
+Golden Retriever,3,56,34.6,arthritis,6.2,27.8,7.6,47.9,39.4,12.8
+Rottweiler,1,10,59.5,arthritis,7.5,18.1,9.6,49.6,36.1,13
+Rottweiler,1,54,34.7,arthritis,8,21.1,8.7,45.4,48.2,12.8
+German Shepherd,4,51,16.1,healthy,12.5,32.3,4.8,52,41.2,19.7
+Rhodesian Ridgeback,8,106,42.3,arthritis,6.5,21.7,8.6,43,46.4,19.3
+Rottweiler,1,37,38,healthy,10.8,29.2,5.4,63.3,25.4,21.5
+Golden Retriever,3,108,23.3,arthritis,4.8,19.8,6.5,47,47,21.1
+Dalmatian,6,88,21,healthy,12,32.9,7.4,65.5,29.5,16
+Labrador,7,93,22.7,kidney disease,5.2,10.4,11.4,56.9,51.8,9.1
+Boxer,2,117,28.7,obesity,7.5,23.5,14.1,43.7,36.1,11.4
+Dalmatian,6,115,17,diabetes,5,20.1,10.5,48.6,44.1,24.7
+Pomeranian,9,24,7.3,obesity,6,23.8,11.2,53.7,48.7,17.5
+Doberman,5,111,15.5,kidney disease,5.7,11.6,8.6,59.6,59.1,9.6
+Doberman,5,22,18.9,kidney disease,4.3,16.5,9.6,60.3,53,9.8
+German Shepherd,4,42,30.1,healthy,15,31.9,5.2,64.9,34.8,23.1
+Rhodesian Ridgeback,8,50,43.9,healthy,13.9,34.2,6.1,59.7,25.7,20.9
+German Shepherd,4,38,13.2,kidney disease,4.8,10.4,9.1,50.9,62.1,8.6
+Pomeranian,9,36,5.2,arthritis,6.6,19.4,7.5,42.3,35.6,12
+Golden Retriever,3,58,31.6,obesity,6.6,20.1,13.8,43.7,37.3,16.9
+Dalmatian,6,15,29,kidney disease,4.9,14,8.9,60.3,52.6,13.3
+Pomeranian,9,78,4.7,obesity,6.2,18.2,13.7,41.3,42,11.6
+Mutt (Mixed Breed),10,60,43,arthritis,5.5,26,8,53.2,49.1,20
+Mutt (Mixed Breed),10,24,41,healthy,14.2,34.7,4.4,51.8,38,15.3
+Golden Retriever,3,50,21.3,obesity,6.7,23.1,10.7,53.1,34.2,11.6
+Pomeranian,9,91,4.5,diabetes,3.7,24.9,8.5,34.7,55.5,19.2
+Doberman,5,113,20.1,diabetes,3.8,29.4,10.4,32.8,57.3,21.1
+Rottweiler,1,63,32.4,diabetes,7.8,25.1,8.6,42.4,59.5,22.8
+Dalmatian,6,9,21.2,kidney disease,5.7,10.6,11.8,51.4,69.7,9
+Boxer,2,11,28.7,diabetes,5,20.8,10.9,37.1,44.2,19.3
+Rottweiler,1,62,38.1,diabetes,6.5,22.6,8.6,32.4,53.2,18.9
+Mutt (Mixed Breed),10,72,42.5,diabetes,7.1,20.2,8.8,47.2,53.9,16.4
+Pomeranian,9,31,4.3,healthy,13.1,25.2,4.8,61.5,29,16
+Rhodesian Ridgeback,8,86,33.1,diabetes,5.2,22,10.8,32.4,51.9,19.2
+Dalmatian,6,45,24.8,kidney disease,5.4,14.3,8.2,51.7,52.7,8.3
+Rhodesian Ridgeback,8,62,30.5,healthy,11.6,31.3,7.6,62.1,42.5,15.9
+Boxer,2,28,29.8,diabetes,5.5,25.4,9.4,45.5,52.9,23.8
+Doberman,5,60,18.1,obesity,5.8,24.2,14.1,46.4,43.9,19.9
+Doberman,5,9,15,obesity,8.6,16.4,14.6,43.6,43,14.4
+Doberman,5,72,40.9,obesity,6.8,18.2,13.2,55.9,38.9,11.2
+Doberman,5,28,10.2,obesity,5.4,23.6,12.7,46.6,35.1,18.7
+Golden Retriever,3,77,16.7,healthy,13.8,29.2,7.1,62.1,35.9,21.1
+Labrador,7,77,16,healthy,8.7,26.9,6,63.6,26.2,15.3
+Boxer,2,83,30.9,digestive issues,7.8,23.2,13.6,42.3,40.6,13.4
+German Shepherd,4,85,11.9,arthritis,4.2,27.8,8.3,40.7,48.4,19.4
+Mutt (Mixed Breed),10,12,37,arthritis,6.8,21.5,7,48.4,51.1,15.9
+Rhodesian Ridgeback,8,82,48.9,diabetes,4.3,26.4,10.5,31.3,55.5,23.1
+German Shepherd,4,70,26.9,obesity,8.5,20.7,13,55.8,38.5,10
+Labrador,7,23,29.2,obesity,6.6,22.9,10.8,46.1,30.4,14.5
+Boxer,2,20,18,digestive issues,7.5,15.3,16.5,42.7,46.1,11.1
+Rottweiler,1,51,51.2,diabetes,4.2,28.3,10.1,45.1,59.8,19.4
+Mutt (Mixed Breed),10,106,36.9,arthritis,7,25.9,6.1,46.1,37.2,16.3
+Dalmatian,6,4,27.3,healthy,8.5,26.5,4.6,69.3,44.3,15.6
+Rhodesian Ridgeback,8,54,42.2,diabetes,6.8,26.6,9.7,40.6,49.5,19.2
+Boxer,2,51,25.7,diabetes,5.7,27.7,10.4,46.8,56.8,23.7
+Doberman,5,87,22.3,obesity,6.7,20.3,11.3,49.9,34.6,19.8
+Doberman,5,80,26.7,digestive issues,5.8,16,18,52.4,47.1,12.5
+Doberman,5,36,15.2,healthy,9.8,27.4,6.2,54.9,38.3,23.6
+Labrador,7,94,16.1,obesity,5.1,17.8,13.4,42.8,42.1,14.8
+Golden Retriever,3,5,26.3,digestive issues,8.5,16.6,13.7,57.4,45.4,12.4
+Mutt (Mixed Breed),10,15,33.3,healthy,12,26.1,7.1,65.4,32.5,24.6
+Mutt (Mixed Breed),10,67,23.4,kidney disease,4.2,11.3,8.5,60.9,59.2,9.4
+Pomeranian,9,41,6.4,healthy,9.9,32.5,6.1,68.1,31.2,23
+Boxer,2,83,15.6,kidney disease,4.6,15.2,8.2,64.6,64.6,12
+Golden Retriever,3,9,29.6,diabetes,4,25.3,9.4,35.8,42.8,19.2
+German Shepherd,4,44,37.1,kidney disease,4.5,17.2,8.7,45.9,59.7,13.1
+Pomeranian,9,57,2.1,healthy,14.4,31.7,6.2,58.7,42.4,19.9
+Doberman,5,34,13.6,digestive issues,5.5,23.4,16.8,54.3,32.3,16
+Rhodesian Ridgeback,8,64,12.6,obesity,5.9,18.5,14.3,51.5,33.2,13.8
+Labrador,7,119,34.6,digestive issues,8.9,17.9,15.9,49.3,37.6,19.5
+Pomeranian,9,95,6.9,obesity,7.3,20.8,13.6,59.4,34,17.8
+Doberman,5,25,27.8,obesity,9.8,18.9,14.1,56.6,33.6,19.7
+Pomeranian,9,20,6.7,diabetes,7.7,25.3,8.3,39.2,47.8,19.6
+Rhodesian Ridgeback,8,91,40.6,arthritis,7.3,20.9,8.7,40.8,51.7,14
+Pomeranian,9,39,7.2,digestive issues,5.3,22.3,13.1,59.8,41.1,17.7
+Rottweiler,1,120,46.7,arthritis,9,27.9,8.1,45.1,50.5,17.5
+Mutt (Mixed Breed),10,8,18.1,digestive issues,7.1,23.5,12.8,46,32,19.6
+Rottweiler,1,54,20,kidney disease,5.8,17.6,11.3,46.8,66.8,10.7
+Labrador,7,68,37.8,digestive issues,6,19.5,16.7,56.4,38.7,19
+Mutt (Mixed Breed),10,76,33,healthy,8.3,34.3,6.1,68,27.3,23.5
+Labrador,7,83,27.1,healthy,14.1,27.9,5,56,25.8,22.9
+Doberman,5,59,36.4,arthritis,7.6,24.7,8.3,48.3,48.9,21.2
+Dalmatian,6,81,23.1,arthritis,6,21.3,9.1,41.8,51.1,20.3
+Labrador,7,26,17.2,obesity,6.4,21.4,11.5,54.4,32.3,12.2
+Rottweiler,1,105,55.5,arthritis,5.6,19.8,9,43.6,37,12.9
+Boxer,2,53,28.4,healthy,14.2,27,5.5,68,32.6,18.3
+Rhodesian Ridgeback,8,30,30.1,diabetes,5.1,20.8,10.9,36.4,55.5,19.3
+German Shepherd,4,25,14.1,obesity,5.9,21.1,13.3,53,37.5,16.9
+Rhodesian Ridgeback,8,35,35.1,healthy,9.3,29.7,7,64.1,39.1,15.7
+Boxer,2,23,25.8,diabetes,4.2,24.1,11.5,33.7,57.2,21.4
+Labrador,7,22,19.1,kidney disease,4.3,18,11.4,54.1,60.6,9.2
+German Shepherd,4,63,29.9,obesity,7.1,23.9,11,49.6,32.6,12.8
+Rottweiler,1,114,30.2,diabetes,6.1,26.4,10.9,31.6,45.4,23.9
+Mutt (Mixed Breed),10,45,12.8,kidney disease,4.5,14.3,11.7,58.7,60.3,13.8
+Doberman,5,53,15.5,kidney disease,5.5,16.4,10.4,49.2,66.5,13.3
+German Shepherd,4,79,31,kidney disease,5.3,12,9.9,46.5,59.8,11.7
+Dalmatian,6,26,17.8,healthy,8.5,31,7.6,67.6,42.4,24.5
+Pomeranian,9,18,5,healthy,10.2,28.6,5.7,68.2,27.6,23
+Pomeranian,9,91,7.2,diabetes,4.8,23.2,9.8,38.2,44.4,18.8
+Boxer,2,23,22.9,obesity,9.3,23.1,14.9,58.8,33.6,18.5
+Labrador,7,111,30.6,arthritis,4,20.5,8.4,52.1,38.9,21.1
+Rhodesian Ridgeback,8,62,17.2,digestive issues,6,22.7,13.9,58.7,46.3,12.9
+Mutt (Mixed Breed),10,43,17.3,digestive issues,5.6,17.3,13.7,43.7,31.7,13.7
+German Shepherd,4,19,19.7,diabetes,4.6,27.3,9.8,38.4,43.2,17.9
+Golden Retriever,3,58,32.6,diabetes,6.5,29.5,9.4,44,52.8,23.8
+Boxer,2,86,18.9,digestive issues,7.9,15.9,14.9,54.1,37.4,10.1
+Mutt (Mixed Breed),10,89,46.7,digestive issues,7.7,15.8,13,50.9,30.8,18.8
+Doberman,5,53,39.2,arthritis,5.6,27.4,9.3,42.7,36.8,17.4
+Mutt (Mixed Breed),10,116,25.6,kidney disease,4.1,17.2,11.1,53.1,66.3,11.4
+Rottweiler,1,8,45.8,arthritis,4.7,22.9,7.4,42,53.6,21
+Labrador,7,21,34.7,arthritis,7.1,25.7,7.4,49.7,39.5,17.3
+Golden Retriever,3,95,18,diabetes,8,28.1,10.9,30.9,55.8,18.7
+Golden Retriever,3,79,24.5,digestive issues,7.2,21,14.4,48.4,43.2,11.4
+Mutt (Mixed Breed),10,53,35.6,obesity,8,19.3,12.5,42.5,42.3,15.5
+Rhodesian Ridgeback,8,77,25.8,arthritis,5.6,25,7.1,42.5,54.2,21.9
+Boxer,2,106,31.3,kidney disease,5.6,11.5,11.1,56.8,65.1,11.9
+Rhodesian Ridgeback,8,19,48.2,obesity,8.6,24.3,11.2,59.4,33.8,14.9
+Rhodesian Ridgeback,8,75,20,arthritis,8.9,22.2,9.1,52.7,52.2,19.9
+German Shepherd,4,23,26.6,diabetes,6.1,20.5,10.1,45.1,46,24.7
+Doberman,5,16,20.8,arthritis,5.7,22.7,9.3,50,40.2,13
+Rhodesian Ridgeback,8,119,49.2,arthritis,5.6,20,9.2,45.2,38,17.5
+German Shepherd,4,19,20.3,arthritis,8.7,21.1,9,35.6,52.1,16.2
+Pomeranian,9,78,2.2,diabetes,6.1,27,9.8,42.5,51.5,18
+Pomeranian,9,15,4.9,arthritis,8.2,27.7,8.5,38.8,36.9,21.5
+German Shepherd,4,72,35.8,digestive issues,7,19.7,14.8,44.3,46.9,10.7
+Doberman,5,9,34.5,arthritis,5.7,23,6.7,45.6,49.5,17.8
+German Shepherd,4,108,38.7,diabetes,5.8,27.8,9.4,49.2,49.3,15.6
+Mutt (Mixed Breed),10,38,17.7,obesity,8.8,19.1,14.6,42,36.3,14.4
+German Shepherd,4,92,37.7,kidney disease,6.2,17.8,9.5,61.8,58.1,11.7
+Mutt (Mixed Breed),10,51,33.8,obesity,5.8,22,10.4,53.8,36.3,19.8
+Labrador,7,100,32.6,digestive issues,8.7,24.9,16.3,44.2,46.2,19.9
+Golden Retriever,3,42,28.8,obesity,8.4,22.3,10.2,58.7,35.9,14.2
+Mutt (Mixed Breed),10,7,46.9,diabetes,4.6,22.4,10.5,47.7,49.8,18.7
+German Shepherd,4,41,37.8,healthy,9.1,27.4,6.4,68.8,39.9,22.4
+Golden Retriever,3,61,29.5,diabetes,3.1,23.8,8.6,49.8,45.6,23.2
+Rottweiler,1,14,24,healthy,15,26.6,6.4,68.6,28.9,19.7
+Rottweiler,1,103,38.5,digestive issues,8.5,19.1,17.2,43,41.5,16.8
+Boxer,2,44,26.4,digestive issues,8.7,15.5,12.7,56.9,45.7,10.6
+Golden Retriever,3,71,26.5,arthritis,6.9,23.2,6.1,53,53.6,17.7
+Golden Retriever,3,7,16.4,healthy,8.7,30.3,7.8,54.7,26.2,23.5
+Boxer,2,42,31.1,diabetes,6.9,26.4,11,43.5,53.7,22.1
+German Shepherd,4,15,36.3,obesity,6.8,24.1,13.7,55.7,45.3,19.5
+Boxer,2,90,15.8,diabetes,3.4,21,9,35.8,55.5,18
+Boxer,2,120,22.1,digestive issues,5,20,17.5,52,35.9,10.3
+Doberman,5,77,18.8,diabetes,4.2,28.2,8.5,43.8,41.6,16.8
+Pomeranian,9,20,7.4,healthy,13.5,28,4.4,62.4,44.2,24.6
+Doberman,5,96,35.9,arthritis,6.9,20.9,9.2,50.3,35.4,13.3
+Mutt (Mixed Breed),10,81,31.2,healthy,14.2,31.5,6.8,66.3,25.9,16.5
+Rottweiler,1,113,51.7,kidney disease,6.9,13.9,9.1,62.9,55.4,12.5
+Mutt (Mixed Breed),10,111,32.8,digestive issues,6.5,15.2,14.6,44.2,31.3,14.5
+Pomeranian,9,9,2.8,digestive issues,5.7,24.7,14.6,47,34.2,10.3
+Boxer,2,20,26.7,diabetes,6.9,25.5,9.1,34.4,41.5,16.3
+Dalmatian,6,3,22,healthy,12.5,25.6,5.8,57.8,27.7,15.8
+German Shepherd,4,72,22.9,digestive issues,7.1,22.7,17.3,53.2,37,19.7
+Rottweiler,1,37,29.6,healthy,13.6,30,6.5,62.1,30.6,23.9
+German Shepherd,4,40,10.5,healthy,13.6,32.8,7.4,68.5,38.6,17.3
+Pomeranian,9,32,2.7,obesity,5.1,16.6,13.5,45.1,42.7,14.8
+Golden Retriever,3,66,24.6,obesity,6,24.2,14.3,58.4,32,14.7
+Boxer,2,43,26.2,diabetes,7.2,20.1,10.8,46,57.4,21.5
+German Shepherd,4,105,30.7,digestive issues,6,16.1,13.5,46.2,37.6,16
+Rottweiler,1,109,31,kidney disease,6.6,14.6,9.3,46.8,66,9
+Rhodesian Ridgeback,8,100,19.9,kidney disease,5.4,16.1,11.7,59.8,51.1,15
+Doberman,5,106,33.1,healthy,11.8,34.6,4.1,54.7,44.2,18.1
+Dalmatian,6,10,18.8,obesity,5.1,16.9,12.4,45.9,32.1,14.5
+Dalmatian,6,65,19.2,kidney disease,4.7,10.8,11.5,53.2,66.1,11.1
+Labrador,7,12,20.6,obesity,7.7,18.1,11.1,41.9,30.7,17.6
+Rottweiler,1,5,54.8,arthritis,6.5,18.2,6.1,51.2,47.4,22
+German Shepherd,4,83,21.1,digestive issues,7.9,18.8,17.6,53.4,48.9,14.9
+German Shepherd,4,6,22.2,diabetes,7.5,25.5,9.9,38.9,55,18.3
+Mutt (Mixed Breed),10,97,40.2,arthritis,4.4,23.4,7,40.6,39.5,19.8
+Rottweiler,1,45,56.2,arthritis,8.9,19.8,8.7,49.3,36.8,15.2
+Mutt (Mixed Breed),10,14,12.9,healthy,9.1,31.5,4.6,62,33.2,20.1
+Labrador,7,4,37.1,kidney disease,6.6,14.5,10.1,57.7,55.8,10.6
+Doberman,5,88,39.5,healthy,13.7,32.4,5.1,60.3,36.5,23.8
+Golden Retriever,3,17,27.8,arthritis,7.9,24.6,7,48.7,35,12.3
+Labrador,7,50,15.8,kidney disease,4.7,14.5,11.5,53.3,63.1,14.4
+Golden Retriever,3,56,19.2,digestive issues,5.5,16.5,14.2,50.3,41.7,14.2
+Mutt (Mixed Breed),10,29,42.1,healthy,12,31.8,7.8,55.3,28.1,24.1
+Pomeranian,9,98,3.4,arthritis,6.5,24,6.5,47.5,47.6,16.6
+Mutt (Mixed Breed),10,5,13.6,digestive issues,6.2,18.3,16.4,57.8,44.8,13.1
+Doberman,5,2,25.1,obesity,7.6,22.3,14,44.8,46.3,15.7
+Mutt (Mixed Breed),10,17,11.6,diabetes,6.1,24.1,10.1,46.6,44.4,18.9
+Pomeranian,9,57,7.2,arthritis,4.5,20.2,6.2,45.4,39.8,21.6
+Dalmatian,6,68,33.1,healthy,13.7,26.6,5.2,68.5,28.6,15.9
+Doberman,5,90,44.6,obesity,5.1,20,14.9,50,41.1,13.2
+Boxer,2,8,24.1,digestive issues,7.5,18.8,14,47.8,49.9,19.5
+Labrador,7,41,33.3,arthritis,8.9,22.5,7.7,46.2,43.7,21.8
+Pomeranian,9,13,7.7,obesity,7.9,17.6,10.3,59.6,32.6,15.7
+Dalmatian,6,22,22.6,arthritis,8.6,22.3,6.8,42.7,49.8,20
+Mutt (Mixed Breed),10,37,37.8,healthy,15,34.9,6.8,67.1,26.6,22.8
+Mutt (Mixed Breed),10,87,40.9,diabetes,5.6,20.7,9.7,49.6,44,16.9
+Labrador,7,15,35.8,healthy,14.7,26,5.3,57.9,26.6,17.6
+Boxer,2,24,18.8,obesity,8.4,22.7,11.1,57.8,44.2,15
+Rhodesian Ridgeback,8,111,32.3,diabetes,4.8,24.9,12,32.5,43.1,16
+Mutt (Mixed Breed),10,107,28.1,diabetes,5.6,23.3,9.6,45.5,44.5,23.2
+Rottweiler,1,47,59.9,diabetes,4.3,29.6,10.4,39.8,50.3,21.5
+Doberman,5,35,23.6,diabetes,6.3,26.8,8.3,49.3,53.9,21.6
+Labrador,7,23,37.9,diabetes,5.9,25,9.7,40,49,23.4
+Pomeranian,9,82,3.1,digestive issues,6.6,15.8,18,53.5,34.6,18.2
+Doberman,5,98,33.8,arthritis,7.6,22.1,6.8,38.2,47.4,13.7
+Boxer,2,39,18,healthy,12.5,28.7,4.4,63.7,31.5,20.9
+Labrador,7,34,19.3,obesity,6.7,22.7,10.8,47.9,48.7,12.8
+Labrador,7,56,31.6,healthy,10.4,34.1,4.3,61.2,38.8,16
+Golden Retriever,3,3,21,digestive issues,8.4,25,12.8,51.2,43.4,13.7
+Doberman,5,78,18.8,digestive issues,6.4,15,16,54.7,39.6,13.5
+Dalmatian,6,52,28.6,arthritis,5.3,19.7,6.1,46.1,42.2,18.2
+Rottweiler,1,113,50.1,diabetes,4.6,20.4,9.6,44.9,44.3,22.5
+Mutt (Mixed Breed),10,52,29.6,kidney disease,6.9,14.8,11,63.9,57.5,11.5
+German Shepherd,4,103,24.5,healthy,8.9,33.1,5.8,69.7,31,23.8
+Golden Retriever,3,88,21.7,arthritis,7.1,25.3,6.4,44.2,43.8,17.2
+Labrador,7,39,39.5,healthy,8.4,34.8,6.3,63.8,30.4,18.6
+Dalmatian,6,64,24.2,diabetes,6.4,29,10.4,30,42.1,22.7
+Labrador,7,16,18.6,kidney disease,5.4,16.9,9.1,50,54.7,9.4
+Dalmatian,6,48,16.1,arthritis,7.7,24.1,8,36.2,42.3,14.8
+Mutt (Mixed Breed),10,23,22.2,diabetes,7.1,24.8,11.5,35.9,51.6,15.6
+German Shepherd,4,69,10.4,digestive issues,8.3,17.7,12.1,48.7,31.7,10.4
+German Shepherd,4,80,26.6,obesity,7.2,18.4,12.9,49.8,42.4,19.5
+Boxer,2,61,30.6,diabetes,6.3,20.4,11.9,49.6,59.7,21.3
+Labrador,7,89,19.7,healthy,14.6,26.3,7.4,60.2,34.7,21.2
+Rhodesian Ridgeback,8,36,23.9,kidney disease,5.7,18,9.8,45.6,64.3,12.1
+Doberman,5,19,20,healthy,14.2,31.7,6.2,64.1,27,20.9
+Pomeranian,9,7,6.9,arthritis,6.5,19,9.2,50.1,40.2,18.3
+Labrador,7,4,16.5,kidney disease,6.3,11.8,9.9,50.9,56.3,12.6
+Doberman,5,61,23.4,obesity,8.6,23.5,11.1,55,44.5,11.3
+Doberman,5,52,14.8,kidney disease,4.7,11.5,9.1,64.4,58.5,10.1
+Boxer,2,79,25.4,healthy,12.9,34.1,7.9,65.3,41.3,15.9
+Labrador,7,20,19.4,kidney disease,6.4,12.7,8.9,52.6,53.8,10.7
+Boxer,2,93,24.2,digestive issues,8.6,16.1,14.8,46.6,41.1,10.5
+Boxer,2,59,22.1,digestive issues,6.8,19.3,17.8,46.6,36.6,10.9
+German Shepherd,4,79,23.3,kidney disease,6.2,12.8,10.5,61.4,57.5,8.7
+Boxer,2,28,16.7,digestive issues,5.2,20.9,13,49.5,32.1,12.7
+Labrador,7,117,27,digestive issues,7.1,19.3,15.4,53.6,33,15.4
+Pomeranian,9,36,6,healthy,10.4,34.2,7.6,61.2,39.6,21.5
+German Shepherd,4,88,20.1,arthritis,5.5,27.3,9.6,35.1,37.3,18.3
+Doberman,5,63,16.6,diabetes,5.9,25.7,10.9,42,44.4,21
+Doberman,5,61,17.7,kidney disease,5,18,9.8,59.6,56.6,13
+Golden Retriever,3,9,23.4,obesity,7.3,16.9,14.9,45.5,44,19.9

@@ -1,0 +1,128 @@
+[
+    {
+        "intent": "Open Salutations",
+        "examples": [
+            "Hi there! How can I assist with your dog's health today?",
+            "Hello! Tell me about your dog's symptoms.",
+            "Good morning! What's going on with your furry friend?",
+            "Good afternoon! How can I help your pet?",
+            "Hey! Let me know what's troubling your dog.",
+            "Greetings! Ready to provide assistance for your dog's needs.",
+            "Welcome! How can I assist your dog today?",
+            "Hope you're doing well! How can I help your pet?"
+        ]
+    },
+    {
+        "intent": "Close Salutations",
+        "examples": [
+            "Take care, and I hope your dog feels better soon!",
+            "Goodbye! Reach out if you need more help.",
+            "Bye! Wishing your dog a speedy recovery.",
+            "See you later! Give your dog a treat from me!",
+            "Take care, and feel free to return anytime!",
+            "Thanks for chatting! Stay safe!",
+            "Goodbye, and give your furry friend a hug from us!",
+            "Bye! Let me know if there\u2019s anything else I can help with."
+        ]
+    },
+    {
+        "intent": "Heart Disease",
+        "examples": [
+            "What are the signs of heart disease in dogs?",
+            "My dog has trouble breathing. Could it be heart disease?",
+            "Why is my dog coughing so much? Could it be a heart issue?",
+            "What are the treatments for heart disease in dogs?",
+            "My dog is lethargic and not eating. Could it have heart disease?",
+            "Can heart disease in dogs be managed at home?",
+            "How do I know if my dog has a heart problem?",
+            "What symptoms indicate heart disease in dogs?",
+            "Can dogs recover from heart disease?",
+            "What is the best food for a dog with heart disease?",
+            "Are breathing issues in dogs always heart-related?",
+            "Can heart murmurs in dogs be treated?",
+            "Is panting a symptom of heart problems in dogs?",
+            "How can I prevent heart disease in my dog?",
+            "Does weight affect heart disease in dogs?"
+        ]
+    },
+    {
+        "intent": "Joint Disease",
+        "examples": [
+            "Why is my dog limping? Could it be joint disease?",
+            "What can I do for my dog\u2019s arthritis pain?",
+            "How do I know if my dog has joint disease?",
+            "Can joint supplements help my dog?",
+            "What are the signs of arthritis in dogs?",
+            "My dog struggles to climb stairs. Is it joint-related?",
+            "Are there home remedies for dog joint pain?",
+            "Can exercise worsen joint disease in dogs?",
+            "What foods can help with joint problems in dogs?",
+            "Is my dog's stiffness in the morning a sign of joint issues?",
+            "Can joint disease in dogs be cured?",
+            "How does joint disease affect older dogs?",
+            "Are there exercises that help dogs with joint disease?",
+            "Is swimming good for dogs with arthritis?",
+            "Should I use a heating pad for my dog\u2019s joint pain?"
+        ]
+    },
+    {
+        "intent": "Diabetes",
+        "examples": [
+            "What are the symptoms of diabetes in dogs?",
+            "Why is my dog drinking so much water? Could it be diabetes?",
+            "What is the treatment for diabetes in dogs?",
+            "Can I manage my dog\u2019s diabetes at home?",
+            "What are common signs of diabetes in dogs?",
+            "My dog is losing weight but eating a lot. Could it be diabetes?",
+            "What diet should I follow for a diabetic dog?",
+            "Can untreated diabetes be fatal for dogs?",
+            "What causes diabetes in dogs?",
+            "Is insulin the only treatment for diabetic dogs?",
+            "How do I monitor blood sugar in dogs?",
+            "Can diabetes cause blindness in dogs?",
+            "How often should I feed my diabetic dog?",
+            "What are diabetic-friendly snacks for dogs?",
+            "Does age increase the risk of diabetes in dogs?"
+        ]
+    },
+    {
+        "intent": "Overweight",
+        "examples": [
+            "How can I help my overweight dog lose weight?",
+            "What is the ideal weight for my dog?",
+            "Can being overweight cause health problems in dogs?",
+            "What diet should I give my overweight dog?",
+            "How do I know if my dog is overweight?",
+            "What are safe exercises for an overweight dog?",
+            "Are there health risks for overweight dogs?",
+            "How can I tell if my dog is obese?",
+            "What are low-calorie treats for dogs?",
+            "Can being overweight affect a dog\u2019s joints?",
+            "How do I control portion sizes for my dog?",
+            "Is my dog's breed prone to obesity?",
+            "How much exercise does my overweight dog need?",
+            "Can swimming help an overweight dog?",
+            "Should I change my overweight dog\u2019s feeding schedule?"
+        ]
+    },
+    {
+        "intent": "Healthy Dogs",
+        "examples": [
+            "How often should I take my dog for a check-up?",
+            "What is a healthy diet for dogs?",
+            "How do I keep my dog\u2019s coat shiny?",
+            "What vaccinations does my dog need?",
+            "How do I prevent common diseases in dogs?",
+            "What is a good exercise routine for dogs?",
+            "How much water should my dog drink daily?",
+            "How do I know if my dog is healthy?",
+            "What supplements should I give my dog?",
+            "How do I brush my dog\u2019s teeth?",
+            "What\u2019s the best way to keep fleas off my dog?",
+            "How do I maintain my dog\u2019s weight?",
+            "How can I tell if my dog is happy?",
+            "What are the best grooming practices for dogs?",
+            "How often should I deworm my dog?"
+        ]
+    }
+]
