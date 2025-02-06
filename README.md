@@ -73,6 +73,10 @@
 
 ## Model Architectures
 
+![Main Architecture Diagram](1.png)
+
+ 
+
 ### Disease Detection (Skin Conditions):
 - **Base Model**: Pretrained Xception (ImageNet weights).
 - Dense layers with 512 and 256 neurons.
