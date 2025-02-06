@@ -73,7 +73,8 @@
 
 ## Model Architectures
 
-![Main Architecture Diagram](1.png)
+![Main Architecture Diagram](https://github.com/IT21164262/AI-Driven-Solutions-for-Comprehensive-Canine-Healthcare/blob/17fe64c8a0931e0867e97f65c1142b44a8566d64/Main%20Architecture%20Diagram.png)
+
 
  
 
